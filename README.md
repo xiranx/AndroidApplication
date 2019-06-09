@@ -8,4 +8,4 @@ In order to get the relevant models, users should train CNN models with their ow
 
 Hint: Please pay attention to the image input size requirement. 
 
-ResNet&DenseNet:244*244. Inception:299*299. MobileNet:160*160. 
+ResNet&DenseNet:244x244. Inception:299x299. MobileNet:160x160. 
